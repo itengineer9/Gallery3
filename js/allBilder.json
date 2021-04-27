@@ -1,0 +1,110 @@
+[
+    {
+        "alt": "Auto-1",
+        "surc": "img/Autos/auto1.jpg"
+    },
+    {
+        "alt": "Auto-2",
+        "surc": "img/Autos/auto2.jpg"
+    },
+    {
+        "alt": "Auto-3",
+        "surc": "img/Autos/auto3.jpg"
+    },   
+    {
+        "alt": "Auto-4",
+        "surc": "img/Autos/auto4.jpg"
+    }, 
+    {
+        "alt": "Auto-5",
+        "surc": "img/Autos/auto5.jpg"
+    },
+    {
+        "alt": "Auto-6",
+        "surc": "img/Autos/auto6.jpg"
+    },
+    {
+        "alt": "Auto-7",
+        "surc": "img/Autos/auto7.jpg"
+    },   
+    {
+        "alt": "Auto-8",
+        "surc": "img/Autos/auto8.jpg"
+    }, 
+    {
+        "alt": "Auto-9",
+        "surc": "img/Autos/auto9.jpg"
+    },
+                {
+        "alt": "Fahrrad-1",
+        "surc": "img/Fahrraeder/fahrrad1.jpg"
+    },
+    {
+        "alt": "Fahrrad-2",
+        "surc": "img/Fahrraeder/fahrrad2.jpg"
+    },
+    {
+        "alt": "Fahrrad-3",
+        "surc": "img/Fahrraeder/fahrrad3.jpg"
+    },   
+    {
+        "alt": "Fahrrad-4",
+        "surc": "img/Fahrraeder/fahrrad4.jpg"
+    }, 
+    {
+        "alt": "Fahrrad-5",
+        "surc": "img/Fahrraeder/fahrrad5.jpg"
+    },
+    {
+        "alt": "Fahrrad-6",
+        "surc": "img/Fahrraeder/fahrrad6.jpg"
+    },   
+    {
+        "alt": "Fahrrad-7",
+        "surc": "img/Fahrraeder/fahrrad7.jpg"
+    }, 
+    {
+        "alt": "Fahrrad-8",
+        "surc": "img/Fahrraeder/fahrrad8.jpg"
+    },{
+        "alt": "Fahrrad-9",
+        "surc": "img/Fahrraeder/fahrrad9.jpg"
+    },
+    {
+        "alt": "Flugzeug-1",
+        "surc": "img/Flugzeuge/flugzeug1.jpg"
+    },
+    {
+        "alt": "Flugzeug-2",
+        "surc": "img/Flugzeuge/flugzeug2.jpg"
+    },
+    {
+        "alt": "Flugzeug-3",
+        "surc": "img/Flugzeuge/flugzeug3.jpg"
+    },   
+    {
+        "alt": "Flugzeug-4",
+        "surc": "img/Flugzeuge/flugzeug4.jpg"
+    }, 
+    {
+        "alt": "Flugzeug-5",
+        "surc": "img/Flugzeuge/flugzeug5.jpg"
+    },
+    {
+        "alt": "Flugzeug-6",
+        "surc": "img/Flugzeuge/flugzeug6.jpg"
+    },
+    {
+        "alt": "Flugzeug-7",
+        "surc": "img/Flugzeuge/flugzeug7.jpg"
+    },   
+    {
+        "alt": "Flugzeug-8",
+        "surc": "img/Flugzeuge/flugzeug8.jpg"
+    }, 
+    {
+        "alt": "Flugzeug-9",
+        "surc": "img/Flugzeuge/flugzeug9.jpg"
+    }  
+ ]
+
